@@ -2,13 +2,10 @@ html,
 body{
    margin: 0;
    font-family: 'Poppins', sans-serif;
-   /* background-color:#f5e8ba; */
+    background-color:#f5e8ba; 
    
 }
-body{
-    background-image: url(../../CafeCofeeDay/img/
-    );
-}
+
 
 #wrapper h2{
     display:flex;
